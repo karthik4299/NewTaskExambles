@@ -24,6 +24,7 @@ public  void login() {
    sendkeys(pass, "1111111");
    WebElement login = driver.findElement(By.name("login"));
    click(login);
+   System.err.println("dfghjkl");
 }
 	
 	

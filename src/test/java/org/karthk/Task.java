@@ -25,6 +25,7 @@ public  void login() {
    WebElement login = driver.findElement(By.name("login"));
    click(login);
    System.err.println("dfghjkl");
+   System.out.println("dfghjk");
 }
 	
 	
